@@ -2,7 +2,6 @@
 
 body {
     margin: 0;
-    
     background-color: #FF0088;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -28,7 +27,7 @@ h1 {
     background-color:  #cf1d7c;
     margin: 50px;
     border-radius: 8px;
-    padding: 8px 8px;
+    padding: 30px 20px;
  }
 
  .main-container h2 {
@@ -54,10 +53,30 @@ h1 {
     padding: 4px 2px;
     justify-content: center;
     width: 100%;
-
-   
-   
  }
+
+ button {
+   color: white;
+   background-color: green;
+   border: none;
+   border-radius: 4px;
+   display: block;
+   margin: 10px auto;
+   padding: 12px 18px;
+   font-size: 18px;
+  
+   }
+
+   .info {
+      color: white;
+      background-color: #ee82bc;
+      padding: 6px;
+      text-align: center;
+      margin: 50px;
+      border-radius: 4px;
+
+   }
+
 
 
 
